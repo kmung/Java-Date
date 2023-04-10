@@ -13,6 +13,7 @@
         android:fontFamily="serif"
         android:text="@string/your_favorites"
         android:textSize="24sp"
+        android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
