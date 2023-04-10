@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Java Date</string>
+    <string name="home_nav_btn">Home display navigation button</string>
+    <string name="favorites_nav_btn">Favorites display navigation button</string>
+    <string name="chats_nav_btn">Chats display navigation button</string>
+    <string name="profile_nav_btn">Profile display navigation button</string>
+    <string name="java_date">Java Date</string>
+    <string name="your_favorites">Your Favorites</string>
+    <string name="chats">Chats</string>
+    <string name="profiles">Profiles</string>
 </resources>
