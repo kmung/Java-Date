@@ -8,4 +8,6 @@
     <string name="your_favorites">Your Favorites</string>
     <string name="chats">Chats</string>
     <string name="profiles">Profiles</string>
+    <string name="rejection_button">Rejection Button</string>
+    <string name="approve_button">Approve Button</string>
 </resources>
