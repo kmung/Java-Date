@@ -3,20 +3,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools">
-
-    <TextView
-        android:id="@+id/textViewHomeTitle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
-        android:fontFamily="serif"
-        android:text="@string/profiles"
-        android:textSize="24sp"
-        android:textColor="@color/black"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:clipChildren="false">
 
     <LinearLayout
         android:id="@+id/navBar"
